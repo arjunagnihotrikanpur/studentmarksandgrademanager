@@ -1,0 +1,20 @@
+{
+    "students": {
+        "1": {
+            "marks": {
+                "Calculus": 90,
+                "Physics": 45,
+                "AI": 12,
+                "Programming": 85
+            },
+            "grades": [
+                "A",
+                "F",
+                "F",
+                "B"
+            ],
+            "total": 232,
+            "percentage": 46.400000000000006
+        }
+    }
+}
